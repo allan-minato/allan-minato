@@ -18,12 +18,6 @@ Olá, me chamo Allan, seja bem-vindo(a)
 
 ##
 
-<div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allan-minato&show_icons=true&theme=dark" alt="allan-minato" /></p>
-</div>
-
-##
-
 <div> 
   <a href="https://instagram.com/allanmminato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:allan.minato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
